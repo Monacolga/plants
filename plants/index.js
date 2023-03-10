@@ -148,11 +148,3 @@ itemMenu.forEach(function (listItem) {
     });
   });
 });
-
-/////
-// document.addEventListener("click", function (e) {
-//   if (e.target !== contactHeader) {
-//     contactHeader.classList.remove("active");
-//     dropMenu.classList.remove("active");
-//   }
-// });
