@@ -132,7 +132,8 @@ body {
 
 .welcom-section {
   width: 100%;
-  height: 532px;
+  /* height: 532px; */
+  padding: 0 0 65px;
 
   background: #edf2ec;
 }
